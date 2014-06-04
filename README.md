@@ -1,4 +1,4 @@
-nagios_plugin_template_perl
+nagios_plugin_template_python
 ===========================
 
 Python nagios plugins template
